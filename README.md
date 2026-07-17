@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50BB,00C9FF,FF6EC7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%40+IIB+Technologies;Laravel+Developer+%7C+Typescript+Developer+%7C+WordPress+Developer;Building+ERP+%26+Enterprise+Web+Apps;2%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50BB,00C9FF,FF6EC7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%40+IIBTech;Laravel+%7C+Typescript+%7C+WordPress+Developer;Building+ERP+%26+Enterprise+Web+Apps;2%2B+Years+of+Professional+Experience" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
   <img src="https://img.shields.io/badge/📍_Location-Gujrat,_Pakistan-9D50BB?style=for-the-badge" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/💼_Currently_at-IIB_Technologies-00C9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Currently_at-IIBTech-00C9FF?style=for-the-badge" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/🌱_Building_with-Laravel_|_Ionic_|_WordPress-FF6EC7?style=for-the-badge" />
@@ -42,7 +42,7 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
   <tr>
     <td width="60" align="center" style="background-color:#9D50BB;">🏢</td>
     <td>
-      <b>Full Stack Developer</b> — <a href="https://iibtech.com" target="_blank"><b>IIB Technologies</b></a>
+      <b>Full Stack Developer</b> — <a href="https://iibtech.com" target="_blank"><b>IIBTech</b></a>
       <img src="https://img.shields.io/badge/Jan_2025_--_Present-9D50BB?style=flat-square" align="right"/><br/><br/>
       🔹 Building an ERP dashboard for Arabian Ceramics Manufacturing (sales, inventory, CRM, invoicing)<br/>
       🔹 Developed AutoCare — vehicle repair management system with digital signature verification<br/>
