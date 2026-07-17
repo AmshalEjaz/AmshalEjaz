@@ -165,5 +165,3 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:9D50BB&height=100&section=footer" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:9D50BB&height=100&section=footer" width="100%"/>
