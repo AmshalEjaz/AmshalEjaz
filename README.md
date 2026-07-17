@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amshal Ejaz</h1>
-<h3 align="center">Full Stack Developer @ IIB Tech | Laravel • Ionic • WordPress • Grav CMS</h3>
+<h3 align="center">Full Stack Developer @ IIBTech | Laravel • Ionic • WordPress • Grav CMS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6EC7,00D9FF,FFD93D&center=true&vCenter=true&width=560&lines=Building+innovative+web+projects;Laravel+%7C+Blade+%7C+Ionic+Developer;WordPress+%26+Grav+CMS+Enthusiast;Full+Stack+Developer+%40+IIB+Tech" alt="Typing SVG" />
