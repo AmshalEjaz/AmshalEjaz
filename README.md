@@ -1,76 +1,168 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,50:00C9FF,100:92FE9D&height=200&section=header&text=Amshal%20Ejaz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20TypeScript%20Expert%20%7C%20Enterprise%20Software&descSize=16&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,50:00C9FF,100:92FE9D&height=200&section=header&text=Amshal%20Ejaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%E2%80%A2%20Ionic%20%E2%80%A2%20WordPress%20%E2%80%A2%20ERP&descSize=18&descAlignY=55" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50BB,00C9FF,FF6EC7&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Solutions;Specializing+in+Laravel+%26+Ionic+Framework;Expert+in+Grav+CMS+Restoration+%26+Optimization;2%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50BB,00C9FF,FF6EC7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%40+IIB+Technologies;Laravel+%7C+Ionic+%7C+WordPress+Developer;Building+ERP+%26+Enterprise+Web+Apps;2%2B+Years+of+Professional+Experience" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK_HERE">
-    <img src="https://img.shields.io/badge/📄_View_My_Resume-9D50BB?style=for-the-badge&logo=googledocs&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Profile_Views-15-9D50BB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-1-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-FF6EC7?style=for-the-badge&logo=clockify&logoColor=white" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=3&width=1000" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🚀%20About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
+Full Stack Developer with **2+ years of experience** building scalable web and enterprise solutions. Specialized in **Laravel, Ionic/TypeScript, WordPress, and ERP systems** — comfortable across the full stack, from database design to polished frontends.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📍_Location-Gujrat,_Pakistan-9D50BB?style=for-the-badge" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/💼_Currently_at-IIB_Technologies-00C9FF?style=for-the-badge" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/🌱_Building_with-Laravel_|_Ionic_|_WordPress-FF6EC7?style=for-the-badge" />
 </p>
 
 <br/>
 
-### 🚀 About Me
-I am a **Full-Stack Developer** focused on building robust, high-performance enterprise applications. With over **2+ years of experience** , I specialize in the **Laravel** ecosystem and **TypeScript-based mobile/web development (Ionic)** . My expertise includes architecting complex ERP systems, managing databases, and providing expert-level restoration and optimization for **Grav CMS** and **WordPress** platforms.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=💼%20Work%20Experience&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
----
+<br/>
 
-### 🛠 Technical Proficiency
+<table width="100%">
+  <tr>
+    <td width="60" align="center" style="background-color:#9D50BB;">🏢</td>
+    <td>
+      <b>Full Stack Developer</b> — <a href="https://iibtech.com" target="_blank"><b>IIB Technologies</b></a>
+      <img src="https://img.shields.io/badge/Jan_2025_--_Present-9D50BB?style=flat-square" align="right"/><br/><br/>
+      🔹 Building an ERP dashboard for Arabian Ceramics Manufacturing (sales, inventory, CRM, invoicing)<br/>
+      🔹 Developed AutoCare — vehicle repair management system with digital signature verification<br/>
+      🔹 Maintaining iibtech.com with custom WordPress functionality<br/>
+      🔹 Collaborating on Intellogs, a data-driven enterprise web application
+    </td>
+  </tr>
+</table>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Laravel, PHP, MySQL, RESTful APIs |
-| **Frontend** | Ionic, TypeScript, JavaScript, Tailwind CSS, Bootstrap |
-| **CMS & Restoration** | Grav CMS, WordPress (Customization & Speed Optimization) |
-| **Tools & DevOps** | Git, Docker, Linux, ERP Architecture |
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="60" align="center">🏢</td>
+    <td>
+      <b>Backend / Full Stack Developer</b> — <b>HSN Innovators</b>
+      <img src="https://img.shields.io/badge/Jul_2024_--_Dec_2024-00C9FF?style=flat-square" align="right"/><br/><br/>
+      🔹 Architected a full-featured LMS with 5 role-based dashboards<br/>
+      🔹 Engineered Easy Sales — a multivendor e-commerce store<br/>
+      🔹 Built TourAdvisor, a hotel and tour booking platform
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🎓%20Education&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="60" align="center">🎓</td>
+    <td>
+      <b>BS Computer Science</b> — GIMS, PMAS Arid Agriculture University<br/><br/>
+      <img src="https://img.shields.io/badge/2020_--_2024-9D50BB?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/CGPA-3.8_%2F_4.0-00C9FF?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=🧰%20Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,ts,js,mysql,git,tailwind,wordpress,docker,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,ts,js,java,wordpress,html,css,tailwind,bootstrap,mysql,git&theme=light&perline=6" />
 </p>
 
----
-
-### 💼 Professional Experience
-
-*   **Full Stack Developer** | *IIB Technologies* (Jan 2025 – Present)
-    *   Engineered a full-scale **ERP Dashboard** for Arabian Ceramics (Sales, CRM, Invoicing).
-    *   Developed **AutoCare** , a vehicle management system with digital signature verification.
-*   **Backend / Full Stack Developer** | *HSN Innovators* (Jul 2024 – Dec 2024)
-    *   Architected a multi-role **LMS** using Laravel.
-    *   Developed complex e-commerce and booking platforms (Easy Sales, TourAdvisor).
-
----
-
-### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmshalEjaz&bg_color=000000&color=9D50BB&line=00C9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grav_CMS-FFC119?style=for-the-badge&logo=grav&logoColor=black" />
 </p>
 
----
+<br/>
 
-### 🔑 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🔑%20Key%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
-| Project | Description | Role |
-| :--- | :--- | :--- |
-| **Arabian Ceramics ERP** | Enterprise-grade management dashboard | Lead Developer |
-| **AutoCare System** | Vehicle repair management & digital signing | Full-Stack |
-| **HSN LMS** | Laravel-based multi-user learning portal | Backend |
-| **Grav CMS Restoration** | Legacy site recovery & performance tuning | Specialist |
+<br/>
 
----
+<table width="100%">
+  <tr>
+    <td>🏭</td>
+    <td><b>Arabian Ceramics ERP</b> — Enterprise-grade ERP dashboard with sales, inventory, CRM, invoicing & analytics modules</td>
+    <td><img src="https://img.shields.io/badge/ERP-9D50BB?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🚗</td>
+    <td><b>AutoCare System</b> — Vehicle repair management with multi-company support & digital approval signatures</td>
+    <td><img src="https://img.shields.io/badge/Automotive-00C9FF?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>HSN LMS</b> — Laravel-based LMS with role-based access for 5 user types</td>
+    <td><img src="https://img.shields.io/badge/Education-9D50BB?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><b>Intellogs</b> — Data and analytics web application for enterprise business intelligence</td>
+    <td><img src="https://img.shields.io/badge/Analytics-00C9FF?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🛍️</td>
+    <td><b>Easy Sales</b> — Multivendor clothing e-commerce platform with vendor management</td>
+    <td><img src="https://img.shields.io/badge/E--Commerce-9D50BB?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>✈️</td>
+    <td><b>TourAdvisor</b> — Hotel & tour booking platform with backend logic and database management</td>
+    <td><img src="https://img.shields.io/badge/Travel-00C9FF?style=flat-square"/></td>
+  </tr>
+</table>
 
-### 🌐 Connect With Me
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=📊%20GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmshalEjaz&theme=radical&hide_border=true&background=00000000&ring=9D50BB&fire=00C9FF&currStreakLabel=00C9FF" alt="streak stats" />
+</p>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🌐%20Connect%20with%20Me&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amshal-ejaz-266138212/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:amshalejaz1669@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
 </p>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:9D50BB&height=100&section=footer" width="100%"/>
