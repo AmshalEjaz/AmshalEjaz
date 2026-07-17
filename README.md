@@ -149,6 +149,7 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 </p>
 
 <br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🌐%20Connect%20with%20Me&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <br/>
@@ -164,4 +165,7 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:9D50BB&height=100&section=footer" width="100%"/>
+
+<p align="center"><i>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. ⭐</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:9D50BB&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
