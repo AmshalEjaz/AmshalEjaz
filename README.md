@@ -118,10 +118,6 @@ Full Stack Developer with 2+ years of experience building scalable web and enter
 ## 📊 GitHub Stats
 
 <p align="center">
- username=AmshalEjaz&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmshalEjaz&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
