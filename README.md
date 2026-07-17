@@ -118,8 +118,7 @@ Full Stack Developer with 2+ years of experience building scalable web and enter
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmshalEjaz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmshalEjaz&layout=compact&theme=radical&hide_border=true" />
+ username=AmshalEjaz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
