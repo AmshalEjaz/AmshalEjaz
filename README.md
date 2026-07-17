@@ -74,7 +74,7 @@ Full Stack Developer with 2+ years of experience building scalable web and enter
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,ts,js,java,wordpress,html,css,tailwind,bootstrap,mysql,git&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,ts,js,java,wordpress,html,css,tailwind,bootstrap,mysql,git,ionic,grav&theme=light&perline=6" />
 </p>
 
 <p align="center">
