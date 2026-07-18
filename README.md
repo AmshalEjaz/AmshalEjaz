@@ -29,7 +29,7 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
   <img src="https://img.shields.io/badge/💼_Currently_at-IIBTech-00C9FF?style=for-the-badge" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/🌱_Building_with-Laravel_|_Ionic_|_WordPress-FF6EC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱_Building_with-Laravel_|_Ionic_|_WordPress_|_GRAV_Restoration_|_Mobile_App-FF6EC7?style=for-the-badge" />
 </p>
 
 <br/>
