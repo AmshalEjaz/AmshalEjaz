@@ -110,12 +110,8 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 <p align="center">
   <img src="https://img.shields.io/badge/📊_GitHub_Stats_%26_Analytics-9D50BB?style=for-the-badge&labelColor=00C9FF" />
 </p>
-<br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmshalEjaz&theme=github_dark" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmshalEjaz&theme=github_dark&utcOffset=5" width="49%"/>
-</p>
+<br/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmshalEjaz&theme=github_dark" width="49%"/>
@@ -127,19 +123,10 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/9D50BB/AmshalEjaz" alt="GitHub Contribution Chart" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmshalEjaz&theme=radical&hide_border=true&background=00000000&ring=9D50BB&fire=00C9FF&currStreakLabel=00C9FF" alt="streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmshalEjaz&theme=react-dark&hide_border=true&area=true&color=00C9FF&line=9D50BB&point=FF6EC7" width="100%"/>
 </p>
 
 <br/>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=🐍%20Contribution%20Snake&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
