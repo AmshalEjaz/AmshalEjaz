@@ -68,6 +68,17 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C0C0C0,100:9D50BB&height=55&text=🏅%20Achievements&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥈_2nd_Position-Silver_Medalist,_University-C0C0C0?style=for-the-badge&labelColor=9D50BB" />
+</p>
+<p align="center"><sub>Awarded Silver Medal for securing 2nd position in BS Computer Science at GIMS, PMAS Arid Agriculture University</sub></p>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=🧰%20Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <br/>
@@ -101,8 +112,7 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 <br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmshalEjaz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmshalEjaz&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://ghchart.rshah.org/9D50BB/AmshalEjaz" alt="GitHub Contribution Chart" width="100%"/>
 </p>
 
 <p align="center">
