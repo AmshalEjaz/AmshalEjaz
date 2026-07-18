@@ -107,8 +107,9 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=📊%20GitHub%20Stats%20%26%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_GitHub_Stats_%26_Analytics-9D50BB?style=for-the-badge&labelColor=00C9FF" />
+</p>
 <br/>
 
 <p align="center">
@@ -122,10 +123,6 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmshalEjaz&theme=react-dark&hide_border=true&area=true&color=00C9FF&line=9D50BB&point=FF6EC7" width="100%"/>
 </p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🏆%20Trophies&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <br/>
 
