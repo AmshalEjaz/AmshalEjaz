@@ -126,11 +126,6 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmshalEjaz&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=🐍%20Contribution%20Snake&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
