@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50BB,00C9FF,FF6EC7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%40+IIBTech;Laravel+%7C+Typescript+%7C+WordPress+Developer;Building+ERP+%26+Enterprise+Web+Apps;2%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D50BB,00C9FF,FF6EC7&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%40+IIBTech;Laravel+%7C+TypeScript+%7C+WordPress+Developer;Building+ERP+%26+Enterprise+Web+Apps;2%2B+Years+of+Professional+Experience" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,34 +38,20 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="60" align="center" style="background-color:#9D50BB;">🏢</td>
-    <td>
-      <b>Full Stack Developer</b> — <a href="https://iibtech.com" target="_blank"><b>IIBTech</b></a>
-      <img src="https://img.shields.io/badge/Jan_2025_--_Present-9D50BB?style=flat-square" align="right"/><br/><br/>
-      🔹 Building an ERP dashboard for Arabian Ceramics Manufacturing (sales, inventory, CRM, invoicing)<br/>
-      🔹 Developed AutoCare — vehicle repair management system with digital signature verification<br/>
-      🔹 Maintaining iibtech.com with custom WordPress functionality<br/>
-      🔹 Collaborating on Intellogs, a data-driven enterprise web application
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:5B3EE8&height=48&text=Full%20Stack%20Developer%20%E2%80%94%20IIBTech%20%20%7C%20%20Jan%202025%20-%20Present&fontSize=15&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+- 🔹 Building an **ERP dashboard** for Arabian Ceramics Manufacturing (sales, inventory, CRM, invoicing)
+- 🔹 Developed **AutoCare** — vehicle repair management system with digital signature verification
+- 🔹 Maintaining **iibtech.com** with custom WordPress functionality
+- 🔹 Collaborating on **Intellogs**, a data-driven enterprise web application
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="60" align="center">🏢</td>
-    <td>
-      <b>Backend / Full Stack Developer</b> — <b>HSN Innovators</b>
-      <img src="https://img.shields.io/badge/Jul_2024_--_Dec_2024-00C9FF?style=flat-square" align="right"/><br/><br/>
-      🔹 Architected a full-featured LMS with 5 role-based dashboards<br/>
-      🔹 Engineered Easy Sales — a multivendor e-commerce store<br/>
-      🔹 Built TourAdvisor, a hotel and tour booking platform
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:17C3B2&height=48&text=Backend%20%2F%20Full%20Stack%20Developer%20%E2%80%94%20HSN%20Innovators%20%20%7C%20%20Jul%202024%20-%20Dec%202024&fontSize=15&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+- 🔹 Architected a full-featured **LMS** with 5 role-based dashboards
+- 🔹 Engineered **Easy Sales** — a multivendor e-commerce store
+- 🔹 Built **TourAdvisor**, a hotel and tour booking platform
 
 <br/>
 
@@ -73,16 +59,12 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="60" align="center">🎓</td>
-    <td>
-      <b>BS Computer Science</b> — GIMS, PMAS Arid Agriculture University<br/><br/>
-      <img src="https://img.shields.io/badge/2020_--_2024-9D50BB?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/CGPA-3.8_%2F_4.0-00C9FF?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B3EE8,100:17C3E8&height=48&text=BS%20Computer%20Science%20%E2%80%94%20GIMS%2C%20PMAS%20Arid%20Agriculture%20University&fontSize=15&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/2020_--_2024-9D50BB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-3.8_%2F_4.0-00C9FF?style=for-the-badge" />
+</p>
 
 <br/>
 
@@ -105,47 +87,50 @@ Full Stack Developer with **2+ years of experience** building scalable web and e
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td>🏭</td>
-    <td><b>Arabian Ceramics ERP</b> — Enterprise-grade ERP dashboard with sales, inventory, CRM, invoicing & analytics modules</td>
-    <td><img src="https://img.shields.io/badge/ERP-9D50BB?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>🚗</td>
-    <td><b>AutoCare System</b> — Vehicle repair management with multi-company support & digital approval signatures</td>
-    <td><img src="https://img.shields.io/badge/Automotive-00C9FF?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><b>HSN LMS</b> — Laravel-based LMS with role-based access for 5 user types</td>
-    <td><img src="https://img.shields.io/badge/Education-9D50BB?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td><b>Intellogs</b> — Data and analytics web application for enterprise business intelligence</td>
-    <td><img src="https://img.shields.io/badge/Analytics-00C9FF?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>🛍️</td>
-    <td><b>Easy Sales</b> — Multivendor clothing e-commerce platform with vendor management</td>
-    <td><img src="https://img.shields.io/badge/E--Commerce-9D50BB?style=flat-square"/></td>
-  </tr>
-  <tr>
-    <td>✈️</td>
-    <td><b>TourAdvisor</b> — Hotel & tour booking platform with backend logic and database management</td>
-    <td><img src="https://img.shields.io/badge/Travel-00C9FF?style=flat-square"/></td>
-  </tr>
-</table>
+- 🏭 **Arabian Ceramics ERP** `ERP` — Enterprise-grade dashboard with sales, inventory, CRM, invoicing & analytics modules
+- 🚗 **AutoCare System** `Automotive` — Vehicle repair management with multi-company support & digital approval signatures
+- 🎓 **HSN LMS** `Education` — Laravel-based LMS with role-based access for 5 user types
+- 📊 **Intellogs** `Analytics` — Data and analytics web application for enterprise business intelligence
+- 🛍️ **Easy Sales** `E-Commerce` — Multivendor clothing e-commerce platform with vendor management
+- ✈️ **TourAdvisor** `Travel` — Hotel & tour booking platform with backend logic and database management
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=📊%20GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=📊%20GitHub%20Stats%20%26%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
 <br/>
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmshalEjaz&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmshalEjaz&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmshalEjaz&theme=radical&hide_border=true&background=00000000&ring=9D50BB&fire=00C9FF&currStreakLabel=00C9FF" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmshalEjaz&theme=react-dark&hide_border=true&area=true&color=00C9FF&line=9D50BB&point=FF6EC7" width="100%"/>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D50BB,100:00C9FF&height=55&text=🏆%20Trophies&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmshalEjaz&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:9D50BB&height=55&text=🐍%20Contribution%20Snake&fontSize=22&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmshalEjaz/AmshalEjaz/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
 <br/>
