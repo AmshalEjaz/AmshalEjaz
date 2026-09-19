@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-15-9D50BB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-1-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-2-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-FF6EC7?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
 
